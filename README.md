@@ -14,7 +14,7 @@
 #### I am currently working on a Chess AI that you can play against using the LibGDX framework in java. I am also studying for competitive programming competitions like USACO. I am also learning some web development using HTML, CSS and Javascript. 
 
 ---
-###Stats (Don't look at them too much :))
+### Stats (Don't look at them too much :))
 
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=XDTerminated&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
