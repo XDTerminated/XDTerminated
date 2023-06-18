@@ -2,7 +2,7 @@
 ##### Competitive Programmer and Aspiring Software Engineer
 ---
 ### Who am I
-#### I am a Junior at Ladue Horton Watkins High School. I enjoy programming and tech in general. I do a ~lot~ of programming on competitive programming websites:
+#### I am a Senior at Ladue Horton Watkins High School. I enjoy programming and tech in general. I do a ~lot~ of programming on competitive programming websites:
 
 * USACO
 * Leetcode
@@ -11,7 +11,7 @@
 
 
 ### What am I currently working on
-#### I am currently working on a Chess AI that you can play against using the LibGDX framework in java. I am also studying for competitive programming competitions like USACO. I am also learning some web development using HTML, CSS and Javascript. 
+#### I am currently working on an AI that tries to predict a chess game's elo by using the PGN of the game. I am doing this using python.
 
 ---
 ### Stats
