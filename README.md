@@ -11,7 +11,7 @@
 
 
 ### What am I currently working on
-#### I am currently working on using OpenAPI and Langchain to create a tool that can efficiently interpret, analyze and even graph the data that is given to it.
+#### Currently, I'm working on TheOdinProject to learn web development, gain experience building web apps and grow as a programmer.
 
 ---
 ### Stats
