@@ -2,7 +2,7 @@
 ##### Competitive Programmer and Aspiring Software Engineer
 ---
 ### Who am I
-#### I am a Senior at Ladue Horton Watkins High School. I enjoy programming and tech in general. I do a lot of programming on competitive programming websites:
+#### I am a Freshman at Missouri University of Science and Technology. I enjoy programming and learning about new tech. I do a lot of programming on competitive programming websites:
 
 * USACO
 * Leetcode
