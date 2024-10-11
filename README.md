@@ -1,7 +1,6 @@
 # Hi, I'm Sayam
 ##### Competitive Programmer and Aspiring Software Engineer
 ---
-### Who am I
 #### I am a Freshman at Missouri University of Science and Technology. I enjoy programming and learning about new tech. I do a lot of programming on competitive programming websites:
 
 * USACO
@@ -10,8 +9,7 @@
 * Codeforces
 
 
-### What am I currently working on
-#### Currently, I'm working on TheOdinProject to learn web development, gain experience building web apps and grow as a programmer.
+#### Currently, I'm working on TheOdinProject to learn web development, gain experience building web apps and grow as a programmer. I am also learning a lot about machine learning and artificial intelligence.
 
 ---
 ### Stats
