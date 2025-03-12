@@ -15,6 +15,5 @@
 ### Stats
 
 
-| [![GitHub Streak](https://streak-stats.demolab.com?user=XDTerminated&theme=dark)](https://git.io/streak-stats) |  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=XDTerminated&theme=dark&size_weight=0.5&count_weight=0.5)](https://github.com/XDTerminated/github-readme-stats)  |
-| ------------- | ------------- |
+| [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=XDTerminated&theme=dark&size_weight=0.5&count_weight=0.5)](https://github.com/XDTerminated/github-readme-stats)  |
 
